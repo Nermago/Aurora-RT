@@ -1,0 +1,8 @@
+*.material.bin
+*.rtpack
+shader/tu_betterrtx/*
+!shader/tu_betterrtx/PON_AQUI_TU_BETTERRTX.txt
+salida/
+compilar_log.txt
+herramientas/dxc.exe
+herramientas/*.dll

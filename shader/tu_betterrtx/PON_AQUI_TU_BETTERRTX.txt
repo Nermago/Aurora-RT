@@ -1,0 +1,3 @@
+Pon aqui el archivo RTXStub.material.bin de tu preset de BetterRTX
+(abre el .rtpack con 7-Zip o cambiale la extension a .zip y sacalo de ahi).
+Put the RTXStub.material.bin from your BetterRTX preset here.

@@ -1,0 +1,17 @@
+{
+  "compiler": {
+    "type": "dxc",
+    "options": [
+      "-enable-16bit-types",
+      "-DDXR_1_1"
+    ]
+  },
+  "macro_overwrite": {},
+  "file_overwrite": {
+    "passes": {
+      "CopyToFinal": {
+        "compute": "shaders/CopyToFinal.hlsl"
+      }
+    }
+  }
+}
