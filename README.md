@@ -15,14 +15,12 @@ La luz, las sombras, el agua y los charcos los hace el preset de BetterRTX que t
 
 ## Instalación (fácil)
 
-Lo más sencillo es usar el **instalador de un clic "Instalar Aurora RT"** (se publicará en la sección *Releases*).
+Descarga **Aurora_RT.zip** de la sección *Releases*, descomprímelo y haz doble clic en `Instalar_Aurora_RT.bat`.
 
-Necesitas:
-1. Minecraft Bedrock para Windows con trazado de rayos.
-2. Un preset de BetterRTX (recomendado: **Aurora RT – Luz**, en [bedrock.graphics](https://bedrock.graphics)).
-3. Opcional: el pack de texturas **Aurora RT – Texturas** (CurseForge).
-
-Nota: cuando Minecraft se actualiza o la app de Xbox lo "repara", el juego vuelve a su RTX original. Solo vuelve a correr el instalador.
+- Necesitas Minecraft Bedrock para Windows con trazado de rayos y **Python 3** ([python.org](https://www.python.org/)).
+- **Preset opcional:** si tienes instalado un preset de BetterRTX (desde [bedrock.graphics](https://bedrock.graphics)), Aurora RT se pone encima de él. Si no, se pone encima del RTX original. También puedes poner un `.rtpack` junto al instalador.
+- No instala ningún pack de texturas: usa el que quieras.
+- Si cambias de preset, o si Minecraft se actualiza o la app de Xbox lo "repara", vuelve a correr el instalador.
 
 ## Compilar tú mismo
 
@@ -59,9 +57,7 @@ Lighting, shadows, water and puddles come from your BetterRTX preset. Aurora RT 
 
 ## Install (easy)
 
-Use the **one-click installer "Install Aurora RT"** from *Releases* (coming soon). You need Minecraft Bedrock for Windows with ray tracing, a BetterRTX preset (recommended: **Aurora RT – Light** on [bedrock.graphics](https://bedrock.graphics)) and, optionally, the **Aurora RT – Textures** pack (CurseForge).
-
-If Minecraft updates or the Xbox app "repairs" it, the game goes back to vanilla RTX. Just run the installer again.
+Download **Aurora_RT.zip** from *Releases*, unzip it and double-click `Instalar_Aurora_RT.bat`. You need Minecraft Bedrock for Windows with ray tracing and **Python 3**. If you have a BetterRTX preset installed (from bedrock.graphics), Aurora RT goes on top of it; otherwise it goes on top of vanilla RTX. No texture pack is installed: use any pack you like. Run the installer again after changing presets or after a Minecraft update.
 
 ## Build it yourself
 
