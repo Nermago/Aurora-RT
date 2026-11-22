@@ -24,7 +24,7 @@ Descarga **Aurora_RT.zip** de la sección *Releases*, descomprímelo y haz doble
 
 ## Preset recomendado: Aurora RT – Luz
 
-Aurora RT se ve mejor encima de nuestro preset de BetterRTX. Solo compartimos **los ajustes** (no el código de BetterRTX); la página de BetterRTX arma el preset en tu PC:
+Aurora RT se ve mejor encima de nuestro preset de BetterRTX: [Aurora RT - Luz en bedrock.graphics](https://bedrock.graphics/community/aurora-rt-luz-298a6d) (en revisión por sus moderadores). También puedes armarlo tú con los ajustes: Solo compartimos **los ajustes** (no el código de BetterRTX); la página de BetterRTX arma el preset en tu PC:
 
 1. Descarga [`preset/Aurora RT - Luz.json`](preset/Aurora%20RT%20-%20Luz.json).
 2. Entra a [bedrock.graphics/creator](https://bedrock.graphics/creator), pulsa **Import from .rtpack** y elige ese archivo.
@@ -70,7 +70,7 @@ Download **Aurora_RT.zip** from *Releases*, unzip it and double-click `Instalar_
 
 ## Recommended preset: Aurora RT – Light
 
-Aurora RT looks best on top of our BetterRTX preset. We only share **the settings** (no BetterRTX code): download [`preset/Aurora RT - Luz.json`](preset/Aurora%20RT%20-%20Luz.json), open [bedrock.graphics/creator](https://bedrock.graphics/creator), click **Import from .rtpack**, pick the file, then **Export → Build Preset → Install**. Then run the Aurora RT installer.
+Aurora RT looks best on top of our BetterRTX preset: [Aurora RT - Luz on bedrock.graphics](https://bedrock.graphics/community/aurora-rt-luz-298a6d) (pending review). You can also build it yourself. We only share **the settings** (no BetterRTX code): download [`preset/Aurora RT - Luz.json`](preset/Aurora%20RT%20-%20Luz.json), open [bedrock.graphics/creator](https://bedrock.graphics/creator), click **Import from .rtpack**, pick the file, then **Export → Build Preset → Install**. Then run the Aurora RT installer.
 
 ## Build it yourself
 
