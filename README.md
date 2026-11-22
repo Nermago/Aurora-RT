@@ -22,6 +22,15 @@ Descarga **Aurora_RT.zip** de la sección *Releases*, descomprímelo y haz doble
 - No instala ningún pack de texturas: usa el que quieras.
 - Si cambias de preset, o si Minecraft se actualiza o la app de Xbox lo "repara", vuelve a correr el instalador.
 
+## Preset recomendado: Aurora RT – Luz
+
+Aurora RT se ve mejor encima de nuestro preset de BetterRTX. Solo compartimos **los ajustes** (no el código de BetterRTX); la página de BetterRTX arma el preset en tu PC:
+
+1. Descarga [`preset/Aurora RT - Luz.json`](preset/Aurora%20RT%20-%20Luz.json).
+2. Entra a [bedrock.graphics/creator](https://bedrock.graphics/creator), pulsa **Import from .rtpack** y elige ese archivo.
+3. Ve a **Export → Build Preset → Install** (con Minecraft cerrado).
+4. Corre el instalador de Aurora RT para ponerlo encima.
+
 ## Compilar tú mismo
 
 Aurora RT no incluye archivos de BetterRTX ni de Microsoft: se compila **encima de tu propio preset**.
@@ -58,6 +67,10 @@ Lighting, shadows, water and puddles come from your BetterRTX preset. Aurora RT 
 ## Install (easy)
 
 Download **Aurora_RT.zip** from *Releases*, unzip it and double-click `Instalar_Aurora_RT.bat`. You need Minecraft Bedrock for Windows with ray tracing and **Python 3**. If you have a BetterRTX preset installed (from bedrock.graphics), Aurora RT goes on top of it; otherwise it goes on top of vanilla RTX. No texture pack is installed: use any pack you like. Run the installer again after changing presets or after a Minecraft update.
+
+## Recommended preset: Aurora RT – Light
+
+Aurora RT looks best on top of our BetterRTX preset. We only share **the settings** (no BetterRTX code): download [`preset/Aurora RT - Luz.json`](preset/Aurora%20RT%20-%20Luz.json), open [bedrock.graphics/creator](https://bedrock.graphics/creator), click **Import from .rtpack**, pick the file, then **Export → Build Preset → Install**. Then run the Aurora RT installer.
 
 ## Build it yourself
 
